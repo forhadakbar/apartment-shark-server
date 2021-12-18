@@ -2,7 +2,7 @@
 
 A responsive Apartment Rental Service web application
 
-[Live Preview]() | [Live API Server]()
+[Live Preview](https://apartment-shark.web.app/) | [Live API Server](https://rocky-shelf-02632.herokuapp.com/)
 
 ## Feature
 
@@ -44,7 +44,7 @@ Note: Only admin user have ability to view admin dashboard.
 - Dotenv
 - nodemon
 
-[Front-end Repository]()
+[Front-end Repository](https://github.com/forhadakbar/apartment-shark-client)
 
 ---
 # apartment-shark-server
