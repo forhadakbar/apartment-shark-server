@@ -1,4 +1,4 @@
-# Apartment Hunt
+# Apartment Shark
 
 A responsive Apartment Rental Service web application
 
